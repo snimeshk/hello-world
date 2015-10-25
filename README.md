@@ -1,7 +1,7 @@
 hello-world
 ===========
 Supun Karunathilaka
-Software Engineer
+Senior Software Engineer
 Virtusa
 
 just another repository
